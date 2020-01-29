@@ -1,3 +1,17 @@
+# Okta and SCIM
+
+The Okta implementation of the SCIM protocol is much more refined since this project was put together. The team at Okta has released a new set of documentation and tools that supercedes the work in this SCIM beta repo.
+
+Documentation:
+
+* [SCIM concepts](https://developer.okta.com/docs/concepts/scim/)
+* [OIN guide for SCIM apps](https://developer.okta.com/docs/guides/build-provisioning-integration/overview/)
+* Okta references for SCIM [V2.0](https://developer.okta.com/docs/reference/scim/scim-20/) and [V1.1](https://developer.okta.com/docs/reference/scim/scim-11/)
+
+Tools:
+
+* [SCIMify](https://github.com/dragosgaftoneanu/scimify) is a PHP application that supports both SCIM 1.1 and SCIM 2.0 servers with operations for /Users, /Groups and /ServiceProviderConfig endpoints
+
 # Welcome to the Okta SCIM Beta
 
 > Okta's SCIM implementation is currently in Beta status and provides
